@@ -1,6 +1,6 @@
 
+![Banner](https://user-images.githubusercontent.com/51037452/165883000-30083877-2b45-437d-b792-a18f55517316.jpg)
 
-<!--![Banner](https://user-images.githubusercontent.com/51037452/165882745-01f16bd4-c227-43ec-8468-fb2136379dfb.jpg)
 
 **pedrodesa/pedrodesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
