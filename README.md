@@ -1,8 +1,7 @@
 
-![Banner](https://user-images.githubusercontent.com/51037452/165883000-30083877-2b45-437d-b792-a18f55517316.jpg)
+![banner-image](https://user-images.githubusercontent.com/51037452/165885022-b6e30f4c-f6a5-4665-90cd-11810d6db3ac.jpg)
 
-
-# Olá, sou Pedro de Sá, epidemiologista e cientista de dados.
+## Olá, sou Pedro de Sá, epidemiologista e cientista de dados.
 
 
 <div align="center">
