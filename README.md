@@ -25,5 +25,5 @@ Sou formado em Saúde Coletiva pela UnB, com enfase em Epidemiologia. Atuo na á
 
 
 #### Hard skills
-https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+![https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white]
 
