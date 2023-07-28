@@ -11,7 +11,7 @@ Também compartilho os scripts que escrevi para análises de artigos científico
 Também torno acessíveis projetos pessoais e de estudo na área de ciência de dados, que podem contribuir de alguma forma com estudos de quem visita esse perfilm ou que agreguem de alguma forma.
 
 | **PROJETO** | **DESCRIÇÃO** | **FORMATO** | **STATUS** | **FERRAMENTA** |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------- | ----- |
+| --- | --- | --- | --- |
 | Clusterig BCG | Análise e modelo de machine learning para agrupamentos de de vacinação BCG no Brasil por variáveis socioeconômicas | Projeto | Finalizado | Python |
 | Análise espaço temporal BCG | Análise espaço temporal das coberturas vacinais de BCG no Brasil | Produto de consultoria | Finalizado | R |
 | Pacote R análise de indicadores de hanseníase | Pocete em R para o cálculo de indicadores de hanseníase | Projeto | Em andamento | R |
