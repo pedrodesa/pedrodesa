@@ -23,4 +23,7 @@ Também torno acessíveis projetos pessoais e de estudo na área de ciência de 
 ---
 Sou formado em Saúde Coletiva pela UnB, com enfase em Epidemiologia. Atuo na área de Ciência de Dados desde 2018, no setor público. 
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+#### Hard skills
+https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+
