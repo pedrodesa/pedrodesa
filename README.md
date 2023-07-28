@@ -1,11 +1,22 @@
 
 ![logo_linkedin](https://user-images.githubusercontent.com/51037452/226083852-5a5c39b4-d75b-4c4b-887a-cf14b7424070.png)
 
-## Olá, sou Pedro de Sá!
+# Pedro de Sá
+
+Bem vindo/a ao meu perfil do GitHub, aqui estão alguns dos meus projetos e produtos de consultoria e pessoais.
+
+## Projetos e produtos de dados
+Disponibilizo alguns produtos de dados que foram realizados com dados e informações públicas realizados em consultorias.
+Também compartilho os scripts que escrevi para análises de artigos científicos na área de Ciência de Dados e Epidemiologia.
+Também torno acessíveis projetos pessoais e de estudo na área de ciência de dados, que podem contribuir de alguma forma com estudos de quem visita esse perfilm ou que agreguem de alguma forma.
+
+| **PROJETO** | **DESCRIÇÃO** | **FORMATO** | **STATUS** | **FERRAMENTA** |
+| ------------- |:----------------------:|:-------------:| -----:|
+| Clusterig BCG | Análise e modelo de machine learning para agrupamentos de de vacinação BCG no Brasil por variáveis socioeconômicas | Projeto | Finalizado | Python |
+| Análise espaço temporal BCG | Análise espaço temporal das coberturas vacinais de BCG no Brasil | Produto de consultoria | Finalizado | R |
+| Pacote R análise de indicadores de hanseníase | Pocete em R para o cálculo de indicadores de hanseníase | Porjeto | Em andamento | R |
 
 
-<div align="center">
-  <a href="https://github.com/pedrodesa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodesa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodesa&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## Sobre mim
+---
+Sou formado em Saúde Coletiva pela UnB, com enfase em Epidemiologia. Atuo na área de Ciência de Dados desde 2018, no setor público. 
