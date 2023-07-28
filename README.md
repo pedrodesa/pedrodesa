@@ -14,7 +14,7 @@ Também torno acessíveis projetos pessoais e de estudo na área de ciência de 
 
 | **PROJETO** | **DESCRIÇÃO** | **FORMATO** | **STATUS** | **FERRAMENTA** |
 | --- | --- | --- | --- | --- |
-| Clusterig BCG | Análise e modelo de machine learning para agrupamentos de de vacinação BCG no Brasil por variáveis socioeconômicas | Projeto | Finalizado | Python |
+| [Clusterig BCG](https://github.com/pedrodesa/machine_learning_geo_segmentation_BCG-coverage) | Análise e modelo de machine learning para agrupamentos de de vacinação BCG no Brasil por variáveis socioeconômicas | Projeto | Finalizado | Python |
 | Análise espaço temporal BCG | Análise espaço temporal das coberturas vacinais de BCG no Brasil | Produto de consultoria | Finalizado | R |
 | Pacote R análise de indicadores de hanseníase | Pocete em R para o cálculo de indicadores de hanseníase | Projeto | Em andamento | R |
 
