@@ -2,13 +2,15 @@
 ![logo_linkedin](https://user-images.githubusercontent.com/51037452/226083852-5a5c39b4-d75b-4c4b-887a-cf14b7424070.png)
 
 # Pedro de Sá
+---
 
 Bem vindo/a ao meu perfil do GitHub, aqui estão alguns dos meus projetos e produtos de consultoria e pessoais.
 
 ## Projetos e produtos de dados
+---
 Disponibilizo alguns produtos de dados que foram realizados com dados e informações públicas realizados em consultorias.
 Também compartilho os scripts que escrevi para análises de artigos científicos na área de Ciência de Dados e Epidemiologia.
-Também torno acessíveis projetos pessoais e de estudo na área de ciência de dados, que podem contribuir de alguma forma com estudos de quem visita esse perfilm ou que agreguem de alguma forma.
+Também torno acessíveis projetos pessoais e de estudo na área de ciência de dados, que podem contribuir de alguma forma com estudos de quem visita esse perfil ou que agreguem de alguma forma.
 
 | **PROJETO** | **DESCRIÇÃO** | **FORMATO** | **STATUS** | **FERRAMENTA** |
 | --- | --- | --- | --- | --- |
