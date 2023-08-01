@@ -20,13 +20,6 @@ Também torno acessíveis projetos pessoais e de estudo na área de ciência de 
 | [Método Promethee municípios](https://github.com/pedrodesa/promethee) | Análise multicritério para priorização de municípios com o método Promethee | Projeto | Finalizado | R |
 | Pacote R análise de indicadores de hanseníase | Pacote em R para o cálculo de indicadores de hanseníase | Projeto | Em andamento | R |
 
-
-## Sobre mim
----
-Sou formado em Saúde Coletiva pela UnB, com mestrado mestrado em Epidemiolgoia e especialista em Data Science. Atuo no setor público desde 2018, com **ciência de dados** e **análises de dados epidemiológicos**. 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroterrasa/)
-
 #### Hard skills
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
