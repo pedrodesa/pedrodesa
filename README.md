@@ -21,7 +21,7 @@ Também torno acessíveis projetos pessoais e de estudo na área de ciência de 
 
 ## Sobre mim
 ---
-Sou formado em Saúde Coletiva pela UnB, com enfase em Epidemiologia. Atuo na área de Ciência de Dados desde 2018, no setor público. 
+Sou formado em Saúde Coletiva pela UnB, com mestrado mestrado em Epidemiolgoia e especialista em Data Science. Atuo no setor público desde 2018, com **ciência de dados** e **análises de dados epidemiológicos**. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroterrasa/)
 
