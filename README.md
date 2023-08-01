@@ -16,6 +16,7 @@ Também torno acessíveis projetos pessoais e de estudo na área de ciência de 
 | --- | --- | --- | --- | --- |
 | [Clusterig BCG](https://github.com/pedrodesa/machine_learning_geo_segmentation_BCG-coverage) | Análise e modelo de machine learning para agrupamentos de de vacinação BCG no Brasil por variáveis socioeconômicas | Projeto | Finalizado | Python |
 | [Análise espaço temporal BCG](https://github.com/pedrodesa/spatio_temporal_BCGvaccination) | Análise espaço temporal das coberturas vacinais de BCG no Brasil | Produto de consultoria | Finalizado | R |
+| [Análise de tendência e forescat da detecção de casos novos de hanseníase](https://github.com/pedrodesa/serie_temp_hans) | Análise de tendência e forescast da taxa de detecção de casos novos de hanseníase por 100 mil habitantes | Finalizado | R |
 | Pacote R análise de indicadores de hanseníase | Pacote em R para o cálculo de indicadores de hanseníase | Projeto | Em andamento | R |
 
 
