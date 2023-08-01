@@ -10,7 +10,7 @@ Bem vindo/a ao meu perfil do GitHub, aqui estão alguns dos meus projetos e prod
 ---
 Disponibilizo alguns produtos de dados que foram realizados com dados e informações públicas realizados em consultorias.
 Também compartilho os scripts que escrevi para análises de artigos científicos na área de Ciência de Dados e Epidemiologia.
-Também torno acessíveis projetos pessoais e de estudo na área de ciência de dados, que podem contribuir de alguma forma com estudos de quem visita esse perfil ou que agreguem de alguma forma.
+Também torno acessíveis projetos pessoais e de estudo na área de ciência de dados, que podem contribuir com os estudos de quem visita esse perfil ou que agreguem de alguma forma.
 
 | **PROJETO** | **DESCRIÇÃO** | **FORMATO** | **STATUS** | **FERRAMENTA** |
 | --- | --- | --- | --- | --- |
