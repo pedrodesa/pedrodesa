@@ -18,7 +18,6 @@ Também torno acessíveis projetos pessoais e de estudo na área de ciência de 
 | [Análise espaço temporal BCG](https://github.com/pedrodesa/spatio_temporal_BCGvaccination) | Análise espaço temporal das coberturas vacinais de BCG no Brasil | Produto de consultoria | Finalizado | R |
 | [Análise de tendência e forescat da detecção de casos novos de hanseníase](https://github.com/pedrodesa/serie_temp_hans) | Análise de tendência e forescast da taxa de detecção de casos novos de hanseníase por 100 mil habitantes | Produto de consultoria | Finalizado | R |
 | [Método Promethee municípios](https://github.com/pedrodesa/promethee) | Análise multicritério para priorização de municípios com o método Promethee | Projeto | Finalizado | R |
-| Pacote R análise de indicadores de hanseníase | Pacote em R para o cálculo de indicadores de hanseníase | Projeto | Em andamento | R |
 
 #### Hard skills
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
