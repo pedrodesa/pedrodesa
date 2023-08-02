@@ -8,7 +8,7 @@ Bem vindo/a ao meu perfil do GitHub, aqui estão alguns dos meus projetos e prod
 
 ## Projetos e produtos de dados
 ---
-Além de utilizar como repositório de trabalho, também disponibilizo alguns desses produtos e projetos de ciência de dados, como scripts que podem contribuir com os estudos de quem visita esse perfil ou que agreguem de alguma forma.
+Além de utilizar o GitHub como repositório de trabalho, disponibilizo alguns produtos e projetos de ciência de dados, como scripts com análise e eplicações, que podem contribuir com os estudos de quem visita esse perfil ou agreguem de alguma forma.
 
 #### Repositórios em destaque
 | **PROJETO** | **DESCRIÇÃO** | **FORMATO** | **STATUS** | **FERRAMENTA** |
