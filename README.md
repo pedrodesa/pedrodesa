@@ -4,11 +4,10 @@
 # Pedro de Sá
 ---
 
-Bem vindo/a ao meu perfil do GitHub, aqui estão alguns dos meus projetos e produtos de consultoria e pessoais.
+Bem vindo/a ao meu perfil do GitHub, além de utilizar o GitHub como repositório de trabalho, disponibilizo alguns produtos e projetos de ciência de dados, como scripts com análise e eplicações, que podem contribuir com os estudos de quem visita esse perfil ou agreguem de alguma forma.
 
 ## Projetos e produtos de dados
 ---
-Além de utilizar o GitHub como repositório de trabalho, disponibilizo alguns produtos e projetos de ciência de dados, como scripts com análise e eplicações, que podem contribuir com os estudos de quem visita esse perfil ou agreguem de alguma forma.
 
 #### Repositórios em destaque
 | **PROJETO** | **DESCRIÇÃO** | **FORMATO** | **STATUS** | **FERRAMENTA** |
