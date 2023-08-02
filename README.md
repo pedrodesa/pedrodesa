@@ -8,10 +8,9 @@ Bem vindo/a ao meu perfil do GitHub, aqui estão alguns dos meus projetos e prod
 
 ## Projetos e produtos de dados
 ---
-Disponibilizo alguns produtos de dados que foram realizados com dados e informações públicas realizados em consultorias.
-Também compartilho os scripts que escrevi para análises de artigos científicos na área de Ciência de Dados e Epidemiologia.
-Também torno acessíveis projetos pessoais e de estudo na área de ciência de dados, que podem contribuir com os estudos de quem visita esse perfil ou que agreguem de alguma forma.
+Além de utilizar como repositório de trabalho, também disponibilizo alguns desses produtos e projetos de ciência de dados, como scripts que podem contribuir com os estudos de quem visita esse perfil ou que agreguem de alguma forma.
 
+#### Repositórios em destaque
 | **PROJETO** | **DESCRIÇÃO** | **FORMATO** | **STATUS** | **FERRAMENTA** |
 | --- | --- | --- | --- | --- |
 | [Clusterig BCG](https://github.com/pedrodesa/machine_learning_geo_segmentation_BCG-coverage) | Análise e modelo de machine learning para agrupamentos de de vacinação BCG no Brasil por variáveis socioeconômicas | Projeto | Finalizado | Python |
